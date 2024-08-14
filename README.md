@@ -1,4 +1,4 @@
-Dive into the world of sentiment analysis using Amazon product reviews to uncover hidden emotions within customer feedback.
+Dive into the world of sentiment analysis to uncover hidden emotions within customer feedback.
 
 Begin the project by meticulously cleaning the dataset, ensuring that each product review is well-prepared for analysis, creating a solid foundation for your work.
 
